@@ -16,8 +16,6 @@ Select `Connectors` -> Click on `+ New Connector`
 
 Connector Type: `Github`
 
-<img width="1792" alt="Screenshot 2022-09-09 at 10 55 35 AM" src="https://user-images.githubusercontent.com/109092049/192598730-107417b7-4aa3-410b-9379-346b66d3e58d.png">
-
 Name: `go-sample-connector`
 
 URL Type : `Repository`
@@ -54,7 +52,7 @@ Then go to Execution (In this step we are going to compile the code)
 
 
 
-#### Code Compilation
+#### Run-Unit Test
 
 - Click on `Add step`
  - Go to `Build` and click on `Run`
