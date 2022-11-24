@@ -2,14 +2,12 @@
 - Click on `Add Stage` to get started with the pipeline creation
 - Select the type of stage as `Build`
 
-<img width="1792" alt="Screenshot 2022-09-09 at 10 53 12 AM" src="https://user-images.githubusercontent.com/109092049/192598696-a311f0b8-5c8e-46be-9a48-779d1c358bbb.png">
-
 - Configure the Stage Settings as below
   - Name: `build test and run`
   - Make sure to turn on `clone codebase`.
 
 
-![configure_the_stage_setting](/Images/aboutstage.png)
+![configure_the_stage_setting](/images/About_stage.png)
 
 
 **Setup the Connector as follows**
@@ -52,7 +50,7 @@ Then go to Execution (In this step we are going to compile the code)
 
 
 
-<infrastructure-image>
+![configure_the_stage_setting](/images/Stage_Infrastructure.png)
 
 
 
@@ -88,7 +86,7 @@ Then go to Execution (In this step we are going to compile the code)
 
 
 
-![Code_Compilation_CI](/Images/Code_Compilation_CI.png)//
+![configure_the_stage_setting](/images/run-unit-test.png)
 
 
 
