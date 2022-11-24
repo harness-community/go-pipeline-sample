@@ -35,7 +35,6 @@ In this tutorial you will learn how you can seamlessly get started with Harness 
 
  ![configure_the_stage_setting](/images/Pipeline_Creation_&_Configure_Stages.png)
 
-To know more about Pipelines [check out the docs here](overview.md)
 Next, we are going to add Stages and steps to our Pipeline and compile our Go code.
 
 Click on **[Build step](buildStep.md)**
