@@ -1,6 +1,6 @@
 # Go Sample Pipelines in Harness
 
-Pipeline Trigger 2
+Pipeline Trigger 3
 
 Introduction
 ========================
