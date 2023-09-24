@@ -28,4 +28,3 @@ Bring Your Own Infrastructure:
 ## Licensing
 
 MIT License
-s
