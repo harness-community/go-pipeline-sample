@@ -24,7 +24,3 @@ Hosted Infrastructure:
 Bring Your Own Infrastructure:
 
 ![alt text](./images/harness_ci_your_infra_overview-b5d71133006969a8fe1129e0c48070cb.png)
-
-## Licensing
-
-MIT Licenser
