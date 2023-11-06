@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_go_pipeline_sample_1699261026792-push-trigger-input-set
+  identifier: Build_go_pipeline_sample_1699261026792pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: prj4
+  pipeline:
+    identifier: Build_go_pipeline_sample_1699261026792
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>

@@ -1,0 +1,33 @@
+pipeline:
+  identifier: Build_go_pipeline_sample_1699258651304
+  name: Build go-pipeline-sample
+  orgIdentifier: default
+  projectIdentifier: project3
+  properties:
+    ci:
+      codebase:
+        build: <+input>
+        connectorRef: account.Github_OAuth_1699258630140
+        repoName: go-pipeline-sample
+  stages:
+    - stage:
+        identifier: build
+        name: build
+        spec:
+          cloneCodebase: true
+          execution:
+            steps:
+              - step:
+                  type: Run
+                  name: Run_1
+                  identifier: Run_1
+                  spec:
+                    shell: Sh
+                    command: echo "welcome to Harness"
+          platform:
+            os: Linux
+            arch: Amd64
+          runtime:
+            type: Docker
+            spec: {}
+        type: CI
