@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness TEST 2
+# Go Sample Pipelines in Harness TEST 3
 
 Introduction
 ========================
