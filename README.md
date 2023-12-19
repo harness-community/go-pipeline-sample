@@ -4,7 +4,7 @@ Introduction
 ========================
 This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
 
-## Getting Started
+## Getting Startedvvvv
 
 Use this README to get started with our sample pipeline repository for Go. This guide outlines the basics of getting started with the Harness CI and provides a full code sample for you to try out. This sample doesn’t include configuration options, for in-depth steps and configuring the pipeline for example using triggers or using our templates see the Pipeline Configuration Docs.
 
